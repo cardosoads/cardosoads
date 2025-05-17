@@ -1,12 +1,5 @@
 # 👋 Olá, sou o Wesley
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-green.svg?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Contato-mail%40exemplo.com-blue.svg?style=for-the-badge" alt="Contato"/>
-</div>
-
----
-
 ## 🛠 Tecnologias & Ferramentas
 
 <p align="center">
