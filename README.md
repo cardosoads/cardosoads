@@ -39,14 +39,6 @@
 
 ---
 
-## 📈 Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-</p>
-
----
-
 ## 🎨 Meus Plugins & Boilerplates
 
 <div align="center">
