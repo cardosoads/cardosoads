@@ -39,15 +39,6 @@
 
 ---
 
-## 🎨 Meus Plugins & Boilerplates
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Boilerplate-WordPress-success?style=for-the-badge" alt="WP Boilerplate"/>
-  <img src="https://img.shields.io/badge/Package-Laravel%20Tools-purple?style=for-the-badge" alt="Laravel Tools"/>
-</div>
-
----
-
 ## 📫 Como Me Encontrar
 
 <p align="center">
