@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Wesley
+# 👋 Olá, sou o Wesley Alves Cardoso
 
 ## 🛠 Tecnologias & Ferramentas
 
